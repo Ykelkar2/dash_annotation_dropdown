@@ -1,0 +1,11 @@
+include dash_annotation_dropdown/dash_annotation_dropdown.min.js
+include dash_annotation_dropdown/dash_annotation_dropdown.min.js.map
+include dash_annotation_dropdown/async-*.js
+include dash_annotation_dropdown/async-*.js.map
+include dash_annotation_dropdown/*-shared.js
+include dash_annotation_dropdown/*-shared.js.map
+include dash_annotation_dropdown/metadata.json
+include dash_annotation_dropdown/package-info.json
+include README.md
+include LICENSE
+include package.json

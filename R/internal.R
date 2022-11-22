@@ -1,0 +1,27 @@
+.dashAnnotationDropdown_js_metadata <- function() {
+deps_metadata <- list(`dash_annotation_dropdown` = structure(list(name = "dash_annotation_dropdown",
+version = "0.0.1", src = list(href = NULL,
+file = "deps"), meta = NULL,
+script = 'async-DashAnnotationDropdown.js',
+stylesheet = NULL, head = NULL, attachment = NULL, package = "dashAnnotationDropdown",
+all_files = FALSE, async = TRUE), class = "html_dependency"),
+`dash_annotation_dropdown` = structure(list(name = "dash_annotation_dropdown",
+version = "0.0.1", src = list(href = NULL,
+file = "deps"), meta = NULL,
+script = 'async-DashAnnotationDropdown.js.map',
+stylesheet = NULL, head = NULL, attachment = NULL, package = "dashAnnotationDropdown",
+all_files = FALSE, dynamic = TRUE), class = "html_dependency"),
+`dash_annotation_dropdown` = structure(list(name = "dash_annotation_dropdown",
+version = "0.0.1", src = list(href = NULL,
+file = "deps"), meta = NULL,
+script = 'dash_annotation_dropdown.min.js',
+stylesheet = NULL, head = NULL, attachment = NULL, package = "dashAnnotationDropdown",
+all_files = FALSE), class = "html_dependency"),
+`dash_annotation_dropdown` = structure(list(name = "dash_annotation_dropdown",
+version = "0.0.1", src = list(href = NULL,
+file = "deps"), meta = NULL,
+script = 'dash_annotation_dropdown.min.js.map',
+stylesheet = NULL, head = NULL, attachment = NULL, package = "dashAnnotationDropdown",
+all_files = FALSE, dynamic = TRUE), class = "html_dependency"))
+return(deps_metadata)
+}
